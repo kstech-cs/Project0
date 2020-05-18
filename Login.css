@@ -1,0 +1,58 @@
+body
+{
+background-color: grey;
+padding: 25px;
+fliter: blur(5px);
+}
+
+.container
+{
+border: solid 3px teal;
+background-color: #ffffcc;
+ margin: 35px 100px 95px 120px;
+
+}
+
+.form-cnt {
+font-weight: bold ;
+font-size: 24px;
+padding: 12px 20px;
+text-align: center;
+}
+
+.form-text
+{
+font-weight: bold ;
+font-size: 22px;
+padding:12px 20px;
+}
+
+.form-input
+{
+border: 3px solid yellow;
+width: 100%;
+box-sizing: border-box;
+padding: 12px 20px;
+margin: 8px 0;
+}
+
+.checkbox
+{
+padding: 20px;
+font-weight: bold;
+}
+
+.btn
+{
+background-color: green;
+color: white;
+padding: 12px 20px;
+margin: 8px 0;
+width: 100%;
+cursor: pointer;
+font-weight: bold;
+font-size: 20px;
+text-decoration:none;
+}
+
+
