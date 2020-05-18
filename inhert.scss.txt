@@ -1,0 +1,9 @@
+@import nested;
+p
+{
+color: black;
+}
+td
+{ color: brown;
+}
+

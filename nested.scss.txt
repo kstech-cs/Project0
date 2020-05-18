@@ -1,0 +1,11 @@
+$myFont: Helvetica, cursive, sans-serif;
+
+body {
+  font-family: $myFont;
+}
+div
+{
+p {
+color: red;
+}
+}
